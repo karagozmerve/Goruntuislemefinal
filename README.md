@@ -10,6 +10,6 @@ Yüklenen cevpların soruları aşağıdaki gibidir.
 
 4.Soru:Kullanıcıdan aldığı görüntü üzerinde, yine kullanıcıdan aldığı filteyi (maske) kullanarak görüntüye korelasyon ve konvolüsyon işlemini uygulayan programı yazınız. (Hazır fonksiyon kullanmak yok.) filtre boyutları 3x3 veya 5x5 olabilir. (içerisindeki değerleri rasgelede atamada koyulabilir. Not eğer RGB görüntü alıyorsanız görüntüyü gri ölçekliye çevirerek işlem yapınız. )
 
-5.Soru: Beyaz bir dosya kağı üzerine metal paralar (TL) konulmaktadır. Kameradan aldığınız görüntüyü kullanarak, hangi paradan kaç adet olduğunu ve toplam kaç tl olduğunu bulan programı yazınız. Programın çıktısında ayrıca, kameradan alınan görüntü üzerinde, paraların sınırlarını çizdiriniz ve üzerine kaç tl olduklarınıda yazdırınız. 
+5.Soru: Beyaz bir dosya kağıdı üzerine metal paralar (TL) konulmaktadır. Kameradan aldığınız görüntüyü kullanarak, hangi paradan kaç adet olduğunu ve toplam kaç tl olduğunu bulan programı yazınız. Programın çıktısında ayrıca, kameradan alınan görüntü üzerinde, paraların sınırlarını çizdiriniz ve üzerine kaç tl olduklarınıda yazdırınız. 
 
 **Soruların hepsi tam olarak cevaplandırılmamıştır. Sorulara ait ekran çıktılarına pdf dosyasından ulaşılabilmektedir.
